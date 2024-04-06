@@ -24,6 +24,10 @@
 	rebase = true
 [github]
 	user = itsblok
+# [gitbutler]
+# 	gitbutlerCommitter = 0
+# 	signCommits = true
+# 	aiModelProvider = anthropic
 [push]
 	autoSetupRemote = true
 [filter "lfs"]
